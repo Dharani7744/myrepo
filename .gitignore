@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 silkboard
 *.html
 btm24.txt
+=======
+.vscode/
+/Database/mysafe.db
+*.pyc
+/venv
+/PasswordManager/pass_manager.db
+>>>>>>> c6ddf7f49a5e752f1419678df744a15060245529
